@@ -50,11 +50,6 @@ README.md: This README file.
 How to Run the Analysis
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/NSE-Stock-Data-Analysis.git
-cd NSE-Stock-Data-Analysis
-Install the required dependencies:
 
 bash
 Copy code
